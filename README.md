@@ -40,14 +40,14 @@
 ║  STATUS        : ONLINE                                          ║
 ║  ROLE          : SOFTWARE ENGINEERING STUDENT                    ║
 ║  FOCUS         : BACKEND DEVELOPMENT                             ║
-║  PRIMARY LANG  : JAVA                                             ║
+║  PRIMARY LANG  : Python and C                                    ║
 ║  ENVIRONMENT   : WINDOWS / LINUX                                 ║
 ║  LOCATION      : CURITIBA, BRAZIL                                ║
 ║                                                                  ║
-║  CURRENT MISSION                                                   ║
+║  CURRENT MISSION                                                 ║
 ║  └── Become a strong Backend Developer                           ║
 ║                                                                  ║
-║  NEXT TARGET                                                        ║
+║  NEXT TARGET                                                     ║
 ║  └── Software Engineering Internship → Java Junior               ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
