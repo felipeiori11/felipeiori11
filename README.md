@@ -26,24 +26,25 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════════╗
-║                       FELIPE IORI // SYSTEM                     ║
+║                       FELIPE IORI // SYSTEM                      ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
-║  STATUS          : ONLINE                                       ║
-║  ROLE            : SOFTWARE ENGINEERING STUDENT                 ║
-║  EDUCATION       : ENGENHARIA DE SOFTWARE                       ║
-║  UNIVERSITY      : UNIVERSIDADE POSITIVO                        ║
-║  LOCATION        : CURITIBA, BRAZIL                             ║
+║  STATUS          : ONLINE                                        ║
+║  ROLE            : SOFTWARE ENGINEERING STUDENT                  ║
+║  EDUCATION       : ENGENHARIA DE SOFTWARE                        ║
+║  UNIVERSITY      : UNIVERSIDADE POSITIVO                         ║
+║  LOCATION        : CURITIBA, BRAZIL                              ║
 ║                                                                  ║
 ║  CURRENT STACK                                                   ║
-║  ├── Python                                                     ║
+║  ├── Python                                                      ║
 ║  ├── C                                                           ║
-║  ├── SQL                                                         ║
+║  ├── MongoDB | MySQL                                             ║
 ║  ├── HTML                                                        ║
 ║  ├── CSS                                                         ║
+║  ├── n8n                                                         ║
 ║  ├── Git                                                         ║
-║  └── GitHub                                                       ║
+║  └── GitHub                                                      ║
 ║                                                                  ║
-║  MISSION         : LEARN • BUILD • IMPROVE                      ║
+║  MISSION         : LEARN • BUILD • IMPROVE                       ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
